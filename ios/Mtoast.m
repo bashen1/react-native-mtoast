@@ -26,7 +26,7 @@ RCT_EXPORT_METHOD(show:(NSDictionary *)props) {
         style.backgroundColor = [self colorFromHexCode: tintColor];
     }
     if (titleColor != nil && [titleColor length] > 0) {
-        style.titleColor = [self colorFromHexCode: titleColor];
+        style.messageColor = [self colorFromHexCode: titleColor];
     }
     if (titleSize != nil && ![titleSize isEqual:@0]) {
         style.messageFont = [UIFont systemFontOfSize: [titleSize intValue]];
