@@ -1,0 +1,26 @@
+{
+  "name": "react-native-mtoast",
+  "version": "1.0.0",
+  "description": "react native native toast",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "android",
+    "native",
+    "toast"
+  ],
+  "repository": "https://github.com/bashen1/react-native-mtoast",
+  "author": "bashen1 <maochunjie@gmail.com> (https://github.com/bashen1)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bashen1/react-native-mtoast/issues"
+  },
+  "homepage": "https://github.com/bashen1/react-native-mtoast#readme",
+  "peerDependencies": {
+    "react-native": ">=0.60"
+  }
+}
