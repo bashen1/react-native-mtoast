@@ -1,6 +1,6 @@
 {
   "name": "react-native-mtoast",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "react native native toast",
   "main": "index.js",
   "scripts": {
